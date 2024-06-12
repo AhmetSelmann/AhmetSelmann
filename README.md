@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AhmetSelmann
+- 👀 I’m interested in mobile application development,AI and writing 
+- 🌱 I’m currently learning Flutter (Pyhton soon) :)
+- 📫 You can reach me by Linkedin link
